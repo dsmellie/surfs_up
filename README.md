@@ -22,7 +22,9 @@ Comparing the temperature differences between June and December I found that:
 -	The lowest temperature in June is 64 degrees Fahrenheit and in December it is 56 degrees.    
 -	The average temperature in June is 75 degrees Fahrenheit and in December it is 71 degrees.    
 -	The standard deviation in temperature in June is 3.25 degrees while  in December it is 3.75 degrees.
-   Data:
+  
+  
+  Data:
 
   ![June Temperature Summary](https://user-images.githubusercontent.com/109701875/192625426-1ab2bacd-b0d9-42ff-9fe6-cb1fb1019a20.PNG)
   
